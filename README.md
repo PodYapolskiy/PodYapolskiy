@@ -39,6 +39,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=podyapolskiy&langs_count=10)](https://github.com/podyapolskiy/github-readme-stats)
+<br />
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=podyapolskiy&count_private=true&show_icons=true&custom_title=Stats)](https://github.com/podyapolskiy/github-readme-stats)
 <!-- &theme=dark -->
 
