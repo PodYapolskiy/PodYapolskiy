@@ -3,13 +3,13 @@
 
 # Hi, it's me, not Mario, Anatoly 👋
 
-## I'm a Developer!
+### I'm a Developer!
 
 - I'm currently learning everything
 - I'm looking to collaborate with other developers
 - 2022 Goal: To have an intership
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" style="fill: red;" alt="PodYapolskiy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="PodYapolskiy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
@@ -19,17 +19,18 @@
 [<img align="left" alt="PodYapolskiy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
+<br />
 
 ## Languages and Tools:
 
-#### IDE's
+##### IDE's
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/topics/visual-studio-code)
 [<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />](https://github.com/topics/atom)
 
 <br />
 
-#### Frontend
+##### Frontend
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/topics/css)
@@ -38,7 +39,7 @@
 
 <br />
 
-#### Backend
+##### Backend
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/topics/nodejs)
 [<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://github.com/topics/flask)
@@ -46,7 +47,7 @@
 
 <br />
 
-#### Programming Languages
+##### Programming Languages
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />](https://github.com/topics/c)
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />](https://github.com/topics/cpp)
@@ -56,33 +57,30 @@
 
 <br />
 
-#### Mobile Development
+##### Mobile Development
 
 [<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://github.com/topics/react-native)
 
 <br />
 
-#### Systems
+##### Systems
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/topics/git)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/topics/github)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/topics/terminal)
 
 <br />
-
----
+<br />
 
 ## Last Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=podyapolskiy&repo=predicting-drawn-digits&show_owner=1)](https://github.com/PodYapolskiy/predicting-drawn-digits)
 <br />
-
----
+<br />
 
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=podyapolskiy&langs_count=10)](https://github.com/podyapolskiy/github-readme-stats)
-<br />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=podyapolskiy&count_private=true&show_icons=true&custom_title=Stats)](https://github.com/podyapolskiy/github-readme-stats)
 
