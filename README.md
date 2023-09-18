@@ -83,7 +83,9 @@
 
 ## Last Project
 
+<!---
 [//]: # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=podyapolskiy&repo=predicting-drawn-digits&show_owner=1)](https://github.com/PodYapolskiy/predicting-drawn-digits)
+--->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=podyapolskiy&repo=follow-my-reading&show_owner=1)](https://github.com/PodYapolskiy/follow-my-reading)
 <br />
 <br />
