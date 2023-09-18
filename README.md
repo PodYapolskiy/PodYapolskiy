@@ -7,7 +7,7 @@
 
 - I'm currently learning everything
 - I'm looking to collaborate with other developers
-- 2022 Goal: To have an intership
+- 2024 Goal: To have an intership
 
 ### Connect with me:
 
@@ -83,7 +83,8 @@
 
 ## Last Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=podyapolskiy&repo=predicting-drawn-digits&show_owner=1)](https://github.com/PodYapolskiy/predicting-drawn-digits)
+[//]: # [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=podyapolskiy&repo=predicting-drawn-digits&show_owner=1)](https://github.com/PodYapolskiy/predicting-drawn-digits)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=podyapolskiy&repo=follow-my-reading&show_owner=1)](https://github.com/PodYapolskiy/follow-my-reading)
 <br />
 <br />
 
