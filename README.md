@@ -30,37 +30,20 @@ class Me:
   def soft_skills() -> frozenset[str]:
     return frozenset(["Communication", "Team Work", "Time Management"])
 
-  def get_skills(self, domain: str) -> ...:
-    ...
+  def get_skills(self, domain: str):
+    # TODO
 ```
 
 <!-- https://github.com/guibranco/progressbar?tab=readme-ov-file -->
 <!-- https://github.com/GoulartNogueira/Star-Rating -->
 <!-- https://stackoverflow.com/questions/43232279/how-can-one-display-tables-side-by-side-in-github-markdown -->
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 10px 0;
-  }
-
-  td {
-    padding: 8px;
-    vertical-align: top; /* Aligns the content to the top */
-    width: 18%;
-  }
-
-  th {
-    text-align: center;
-  }
-</style>
+<!-- https://stackoverflow.com/questions/44172954/is-it-possible-to-have-a-table-in-the-center-in-a-github-gist-markdown -->
 
 <table>
 <tr>
   <th><code>.get_skills("Programming")</code></th><th><code>.get_skills("ML")</code></th><th><code>.get_skills("MLOps")</code></th><th><code>.get_skills("DB")</code></th><th><code>.get_skills("Tools")</code></th>
 </tr>
-<tr>
+<tr valign="top">
 
 <!-- </tr> -->
 
@@ -163,6 +146,8 @@ class Me:
 
 ---
 
+<!-- https://meta.stackexchange.com/questions/311572/should-click-be-used-with-kbd -->
+
 <p align="center">
-  <samp>Check out my repos ⬇️</samp>
+  ⏬ <kbd>CHECK OUT MY REPOS</kbd> ⏬
 </p>
