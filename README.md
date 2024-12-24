@@ -145,7 +145,14 @@ class Me:
 -->
 <br/>
 
-## GitHub Profile 3D Contribution
+### GitHub User Interactions
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=PodYapolskiy">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/PodYapolskiy?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+### GitHub Profile 3D Contribution
 
 ![3d stats plot](./profile-3d-contrib/profile-night-green.svg)
 
