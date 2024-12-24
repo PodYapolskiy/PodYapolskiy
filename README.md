@@ -15,31 +15,129 @@
 
 ```python
 class Me:
-  education = 'Innopolis University, Bachelor 2, Applied AI'
+  education = "IU B26', Applied AI"
   languages = [
-    '🇷🇺 Russian (Native)',
-    '🇬🇧 English (C1)',
-    '🇹🇷 Turkish (A1)'
+    "🇷🇺 Русский (C2)",
+    "🇬🇧 English (C1)",
+    "🇹🇷 Türkçe  (A2)",
+    "🇪🇸 Español (A1)"
   ]
-  programming_languages = [
-    '🐍 Python',
-    '💀 C++',
-    '🔢 Julia'
-  ]
-  stack = [
-    'pandas',
-    'sklearn',
-    'PyTorch',
-    'SQL'
-  ]
-  
-  def __repr__(self) -> str:
-    return "<ML Engineer> Anatoly Podyapolsky"
 
-  @property
-  def soft_skills(self) -> list[str]:
-    return ['Communication', 'Team Work', 'Time Management']
+  def __repr__(self) -> str:
+    return "Anatoly Soldatov; ML Engineer / Software Developer"
+
+  @staticmethod
+  def soft_skills() -> frozenset[str]:
+    return frozenset(["Communication", "Team Work", "Time Management"])
+
+  def get_skills(self, domain: str) -> ...:
+    ...
 ```
+
+<!-- https://github.com/guibranco/progressbar?tab=readme-ov-file -->
+<!-- https://github.com/GoulartNogueira/Star-Rating -->
+<!-- https://stackoverflow.com/questions/43232279/how-can-one-display-tables-side-by-side-in-github-markdown -->
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+  }
+
+  td {
+    padding: 8px;
+    vertical-align: top; /* Aligns the content to the top */
+    width: 18%;
+  }
+
+  th {
+    text-align: center;
+  }
+</style>
+
+<table>
+<tr>
+  <th><code>.get_skills("Programming")</code></th><th><code>.get_skills("ML")</code></th><th><code>.get_skills("MLOps")</code></th><th><code>.get_skills("DB")</code></th><th><code>.get_skills("Tools")</code></th>
+</tr>
+<tr>
+
+<!-- </tr> -->
+
+<td>
+
+| Skill                                                                                                                    | Level                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                   | ![Star Rating](https://starrating-beta.vercel.app/4.5/?size=24) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)                   | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                  | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
+| ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)                      | ![Star Rating](https://starrating-beta.vercel.app/1.5/?size=24) |
+
+<!-- | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                            | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) | -->
+</td>
+
+<td>
+
+| Skill                                                                                                                           | Level                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)                       | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)                    | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)        | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)                 | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=24) |
+| ![Lightning](https://img.shields.io/badge/Lightning-fff?style=for-the-badge&logo=lightning&logoColor=7b29e6)                    | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+
+<!-- transformers, langchain -->
+
+</td>
+
+<td>
+
+| Skill                                                                                                                    | Level                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| ![Tensorboard](https://img.shields.io/badge/tensorboard-f26d00?style=for-the-badge&logo=tensorflow&logoColor=fff)        | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![ClearML](https://img.shields.io/badge/clear%7Cml-1a1d2b?style=for-the-badge&logo=&logoColor=15ab8d)                    | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=24) |
+| ![WandB](https://img.shields.io/badge/wandb-fff?style=for-the-badge&logo=numpy&logoColor=blue)                           | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![mlflow](https://img.shields.io/badge/mlflow-fff?style=for-the-badge&logo=mlflow&logoColor=17a8e6)                      | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
+| ![DVC](https://img.shields.io/badge/dvc-ffffff?style=for-the-badge&logo=dvc)                                             | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
+| ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
+
+</td>
+
+<td>
+
+| Skill                                                                                                                | Level                                                           |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)      | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=24) |
+| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)            | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![FAISS](https://img.shields.io/badge/FAISS-ffffff?style=for-the-badge&logo=meta&logoColor=blue)                     | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
+| ![MinIO](https://img.shields.io/badge/Minio-ffffff?style=for-the-badge&logo=amazons3&logoColor=red)                  | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
+| ![Qdrant](https://img.shields.io/badge/Qdrant-090e1a?style=for-the-badge&logo=qubesos&logoColor=red)                 | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
+
+<!-- | SQL                                                                                                                  | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) | -->
+<!-- | NoSQL -->
+
+</td>
+
+<td>
+
+| Skill                                                                                                                                             | Level                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)                                               | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=24) |
+| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)                                      | ![Star Rating](https://starrating-beta.vercel.app/4.5/?size=24) |
+| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)                                      | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![Linux](https://img.shields.io/badge/linux-fff?style=for-the-badge&logo=linux&logoColor=000)                                                     | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=24) |
+| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/5.0/?size=24) |
+| ![Codeium](https://img.shields.io/badge/codeium-0d0d0d?style=for-the-badge&logo=codeium&logoColor=09b5a1)                                         | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=24) |
+
+</td>
+
+</tr>
+</table>
+
 <!--
   experience: {
     'SWE': '10+ years',
