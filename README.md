@@ -39,16 +39,10 @@ class Me:
 <!-- https://stackoverflow.com/questions/43232279/how-can-one-display-tables-side-by-side-in-github-markdown -->
 <!-- https://stackoverflow.com/questions/44172954/is-it-possible-to-have-a-table-in-the-center-in-a-github-gist-markdown -->
 
-<table>
-<tr>
-  <th><code>.get_skills("Programming")</code></th><th><code>.get_skills("ML")</code></th><th><code>.get_skills("MLOps")</code></th><th><code>.get_skills("DB")</code></th><th><code>.get_skills("Tools")</code></th>
-</tr>
-<tr valign="top">
-
-<!-- </tr> -->
-
-<td>
-
+<details>
+<summary><code>.get_skills("Programming")</code></summary>
+<br>
+  
 | Skill                                                                                                                    | Level                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                   | ![Star Rating](https://starrating-beta.vercel.app/4.5/?size=24) |
@@ -57,10 +51,11 @@ class Me:
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                  | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
 | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)                      | ![Star Rating](https://starrating-beta.vercel.app/1.5/?size=24) |
 
-<!-- | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                            | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) | -->
-</td>
+</details>
 
-<td>
+<details>
+<summary><code>.get_skills("ML")</code></summary>
+<br>
 
 | Skill                                                                                                                           | Level                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -71,12 +66,12 @@ class Me:
 | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
 | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)                 | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=24) |
 | ![Lightning](https://img.shields.io/badge/Lightning-fff?style=for-the-badge&logo=lightning&logoColor=7b29e6)                    | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+  
+</details>
 
-<!-- transformers, langchain -->
-
-</td>
-
-<td>
+<details>
+<summary><code>.get_skills("MLOps")</code></summary>
+<br>
 
 | Skill                                                                                                                    | Level                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -87,9 +82,11 @@ class Me:
 | ![DVC](https://img.shields.io/badge/dvc-ffffff?style=for-the-badge&logo=dvc)                                             | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
 | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
 
-</td>
+</details>
 
-<td>
+<details>
+<summary><code>.get_skills("DB")</code></summary>
+<br>
 
 | Skill                                                                                                                | Level                                                           |
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -100,12 +97,11 @@ class Me:
 | ![MinIO](https://img.shields.io/badge/Minio-ffffff?style=for-the-badge&logo=amazons3&logoColor=red)                  | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
 | ![Qdrant](https://img.shields.io/badge/Qdrant-090e1a?style=for-the-badge&logo=qubesos&logoColor=red)                 | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
 
-<!-- | SQL                                                                                                                  | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) | -->
-<!-- | NoSQL -->
+</details>
 
-</td>
-
-<td>
+<details>
+<summary><code>.get_skills("Tools")</code></summary>
+<br>
 
 | Skill                                                                                                                                             | Level                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -116,10 +112,7 @@ class Me:
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/5.0/?size=24) |
 | ![Codeium](https://img.shields.io/badge/codeium-0d0d0d?style=for-the-badge&logo=codeium&logoColor=09b5a1)                                         | ![Star Rating](https://starrating-beta.vercel.app/4.0/?size=24) |
 
-</td>
-
-</tr>
-</table>
+</details>
 
 <!--
   experience: {
