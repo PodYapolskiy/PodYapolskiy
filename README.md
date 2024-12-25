@@ -39,21 +39,9 @@ class Me:
 <!-- https://stackoverflow.com/questions/43232279/how-can-one-display-tables-side-by-side-in-github-markdown -->
 <!-- https://stackoverflow.com/questions/44172954/is-it-possible-to-have-a-table-in-the-center-in-a-github-gist-markdown -->
 
-<details>
-<summary><code>.get_skills("Programming")</code></summary>
-<br>
-  
-| Skill                                                                                                                    | Level                                                           |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                   | ![Star Rating](https://starrating-beta.vercel.app/4.5/?size=24) |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
-| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)                   | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                  | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
-| ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)                      | ![Star Rating](https://starrating-beta.vercel.app/1.5/?size=24) |
-
 </details>
 
-<details>
+<details open>
 <summary><code>.get_skills("ML")</code></summary>
 <br>
 
@@ -81,6 +69,20 @@ class Me:
 | ![mlflow](https://img.shields.io/badge/mlflow-fff?style=for-the-badge&logo=mlflow&logoColor=17a8e6)                      | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
 | ![DVC](https://img.shields.io/badge/dvc-ffffff?style=for-the-badge&logo=dvc)                                             | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
 | ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/2.0/?size=24) |
+
+</details>
+
+<details>
+<summary><code>.get_skills("Programming")</code></summary>
+<br>
+  
+| Skill                                                                                                                    | Level                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                   | ![Star Rating](https://starrating-beta.vercel.app/4.5/?size=24) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Star Rating](https://starrating-beta.vercel.app/3.0/?size=24) |
+| ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)                      | ![Star Rating](https://starrating-beta.vercel.app/1.5/?size=24) |
+| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)                   | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                  | ![Star Rating](https://starrating-beta.vercel.app/1.0/?size=24) |
 
 </details>
 
@@ -136,23 +138,34 @@ class Me:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=podyapolskiy&count_private=true&show_icons=true&custom_title=Stats)](https://github.com/podyapolskiy/github-readme-stats)
 -->
-<br/>
 
-### GitHub User Interactions
+<details open>
+<summary><h2>Stats</h2></summary>
+
+<details>
+<summary><h4>GitHub Profile 3D Contribution</h4></summary>
+
+![3d stats plot](./profile-3d-contrib/profile-night-green.svg)
+
+</details>
+
+<details open>
+<summary><h4>GitHub User Interactions</h4></summary>
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=PodYapolskiy">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/PodYapolskiy?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### GitHub Profile 3D Contribution
+</details>
 
-![3d stats plot](./profile-3d-contrib/profile-night-green.svg)
+
+</details>
 
 ---
 
 <!-- https://meta.stackexchange.com/questions/311572/should-click-be-used-with-kbd -->
 
 <p align="center">
-  ⏬ <kbd>CHECK OUT MY REPOS</kbd> ⏬
+  <kbd>&#8595;</kbd> <kbd>CHECK OUT MY REPOS</kbd> <kbd>&#8595;</kbd>
 </p>
