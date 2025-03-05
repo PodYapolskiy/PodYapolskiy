@@ -1,16 +1,16 @@
 # ⚡ Hi, it's me, not Mario, Anatoly ⚡
 
 [![anatoly.tatar](https://img.shields.io/badge/anatoly-tatar-000000?style=for-the-badge&logo=&logoColor=white)](https://anatoly.tatar/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PodYapolskiy)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/podyapolsky)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/podyapolskiyaa)
+[![CV](https://img.shields.io/badge/CV-fff?style=for-the-badge&logo=&logoColor=black)](https://anatoly.tatar/en/cv)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/podyapolsky)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/podyapolskiyaa)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/podyapolsky)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/podyapolskiy/)
 
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/podyapolskiy/) -->
+<!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PodYapolskiy)  -->
 <!-- [![VKontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=vk)](https://vk.com/podyapolskiyaa) -->
 <!-- [![VK](https://a11ybadges.com/badge?logo=vk)](https://vk.com/web.step) -->
 <!-- [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:dmatasoff@gmail.com)](mailto:podyapolskiyaa@gmail.com) -->
-<!-- [![CV](https://img.shields.io/static/v1?style=flat-square&message=cv&color=50AFCE&logo=Canva&logoColor=white&label=)](https://www.canva.com/design/DAFHajYHKog/iBupZrL591GzOYTccpyvxQ/view?utm_content=DAFHajYHKog&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 <!-- https://github.com/a11y-badges/a11y-markdown-badges -->
 
 ```python
